@@ -1,1 +1,4 @@
-O Contrato do Pokemon está na Sepólia: 0x18c3ab2e797c3b0b3878c7c71abaa903633fca53
+O Contrato do Pokemon está na Sepólia: 
+0x272b0a343011325EcAdA6ce09b784ae221Dea760
+
+Fiz a batalha com os pokemons no 0 e 1
